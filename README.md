@@ -127,7 +127,6 @@ Ensure proper connections and follow instructions carefully. This project should
 
 ## Author
 - **Ketan Thorat**
-  - Founder of [Robonex Innovations](https://robonex.in)
   - Follow on Instagram: [@ketanthorat.ai](https://instagram.com/ketanthorat.ai)
   - For any queries, kindly mail at ketanthorat.ai@gmail.com
 ---
